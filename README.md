@@ -19,6 +19,7 @@ commercial terms anywhere in this folder, by design.
 | | | |
 |---|---|---|
 | **Want the whole picture in one document** | [`00-what-we-are-building.md`](00-what-we-are-building.md) | The engines, then the loan's journey stage by stage — who acts, what they fill in, what it generates, who it goes to, what it syncs with, what it refuses. Plus every open question |
+| **Explaining it to someone new** | [`12-plain-english-guide.md`](12-plain-english-guide.md) | The whole project in plain English, no lending background assumed — every permutation and every fork walked through with a named person and a real situation |
 | **New to the project** | [`01-the-process.md`](01-the-process.md) | The whole thing in plain language — glossary, then every stage step by step. One sitting, about forty minutes |
 | **Want the picture, not the prose** | [`02-the-flowchart.md`](02-the-flowchart.md) | 17 diagrams: the journey, the roles, every stage, the needs list, the document lifecycle, every email. Renders in the browser on GitHub |
 | **Building it** | [`08-database.md`](08-database.md) and [`database/schema.sql`](database/schema.sql) | 59 tables, and runnable PostgreSQL |
@@ -42,6 +43,7 @@ commercial terms anywhere in this folder, by design.
 | [`02-the-flowchart.md`](02-the-flowchart.md) | The same process as diagrams, with 16 questions still to settle |
 | [`03-scope.md`](03-scope.md) | What is in, what is out, and the three tests anything new has to pass |
 | [`04-process-steps.md`](04-process-steps.md) | Each step in the client's own numbering, and what it became |
+| [`12-plain-english-guide.md`](12-plain-english-guide.md) | The same process in plain English, with a worked example for every permutation and every fork. Derived from the documents above; where they differ, they win |
 
 **The detail**
 
@@ -59,6 +61,7 @@ commercial terms anywhere in this folder, by design.
 | [`08-database.html`](08-database.html) | The same thing for non-technical review — a map, a walk through the process, every table in plain English. Download and open it; GitHub shows HTML as source |
 | [`database/`](database/) | Runnable PostgreSQL, the reporting views, and the reasoning behind the eight schema decisions |
 | [`09-architecture-and-hosting.md`](09-architecture-and-hosting.md) | How it runs, and why each piece is there |
+| [`13-system-design.md`](13-system-design.md) | How the application is built — the stage machine and its four gates, what enforces the permission matrix, the API surface, and the work that leaves the platform |
 
 **The record**
 
